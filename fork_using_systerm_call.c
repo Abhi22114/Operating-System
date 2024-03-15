@@ -16,3 +16,4 @@ printf("i am parent having id %d\n",getpid());
 }
 printf("common\n");
 }
+
