@@ -5,6 +5,7 @@ int main()
 {
 pid_t p;
 printf("before fork\n");
+  
 p=fork();
 if(p==0)
 {
